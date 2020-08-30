@@ -1,11 +1,8 @@
 body
 {
-    columns: #333333;;
+    columns: #333333;
     text-align: center;
-<<<<<<< HEAD
-    font font-family: Courier;
-=======
-    font font-family: Arial;
+    font-family: Arial;
 }
 #container
 {
@@ -36,5 +33,4 @@ padding: 0.5em;
 #post
 {
     padding: 1em;
->>>>>>> cabecera
 }
